@@ -24,7 +24,7 @@ The project covers:
 - VirtualBox
 
 ---
-##images
+## Images
 
 ![Docker images](images/docker-container.png)
 ![Docker images](images/docker-container-page.png)
