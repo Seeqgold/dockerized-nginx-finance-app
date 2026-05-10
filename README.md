@@ -35,3 +35,8 @@ The project covers:
 ├── js/
 ├── images/
 └── README.md
+
+![Docker images](images/docker-container.png)
+![Docker images](images/docker-container-page.png)
+![Docker images](images/docker-push.png)
+![Docker images](images/dockerHub-page.png)
