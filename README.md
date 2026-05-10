@@ -24,6 +24,14 @@ The project covers:
 - VirtualBox
 
 ---
+##images
+
+![Docker images](images/docker-container.png)
+![Docker images](images/docker-container-page.png)
+![Docker images](images/docker-push.png)
+![Docker images](images/dockerHub-page.png)
+
+------------
 
 ## Project Structure
 
@@ -36,7 +44,3 @@ The project covers:
 ├── images/
 └── README.md
 
-![Docker images](images/docker-container.png)
-![Docker images](images/docker-container-page.png)
-![Docker images](images/docker-push.png)
-![Docker images](images/dockerHub-page.png)
